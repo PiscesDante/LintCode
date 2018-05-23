@@ -11,5 +11,5 @@ class Solution:
                     nums[j], nums[i] = nums[i], nums[j]
         return nums[1]
 
-# 总耗时 690 ms
-# 您的提交打败了 83.61% 的提交!
+# 总耗时 704 ms
+# 您的提交打败了 81.69% 的提交!
